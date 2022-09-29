@@ -1,0 +1,17 @@
+golang-github-panjf2000-ants-dev (2.4.0-1+eagle) UNRELEASED; urgency=medium
+
+  * update
+
+ -- zhouzilong <zhouzilong@uniontech.com>  Thu, 12 May 2022 11:48:21 +0800
+
+golang-github-panjf2000-ants-dev (2.4.0-1+eagle) unstable; urgency=medium
+
+  * update
+
+ -- zhouzilong <zhouzilong@uniontech.com>  Tue, 09 Mar 2021 18:07:50 +0800
+
+golang-github-panjf2000-ants-dev (2.4.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- zhouzilong <zhouzilong@uniontech.com>  Tue, 17 Nov 2020 10:27:02 +0800
